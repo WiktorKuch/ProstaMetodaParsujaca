@@ -1,0 +1,15 @@
+C:\Users\Wiktro Kucharek\source\repos\ProstaMetodaParsująca\ProstaMetodaParsująca\bin\Debug\net6.0\ProstaMetodaParsująca.exe
+C:\Users\Wiktro Kucharek\source\repos\ProstaMetodaParsująca\ProstaMetodaParsująca\bin\Debug\net6.0\ProstaMetodaParsująca.deps.json
+C:\Users\Wiktro Kucharek\source\repos\ProstaMetodaParsująca\ProstaMetodaParsująca\bin\Debug\net6.0\ProstaMetodaParsująca.runtimeconfig.json
+C:\Users\Wiktro Kucharek\source\repos\ProstaMetodaParsująca\ProstaMetodaParsująca\bin\Debug\net6.0\ProstaMetodaParsująca.dll
+C:\Users\Wiktro Kucharek\source\repos\ProstaMetodaParsująca\ProstaMetodaParsująca\bin\Debug\net6.0\ProstaMetodaParsująca.pdb
+C:\Users\Wiktro Kucharek\source\repos\ProstaMetodaParsująca\ProstaMetodaParsująca\obj\Debug\net6.0\ProstaMetodaParsująca.csproj.AssemblyReference.cache
+C:\Users\Wiktro Kucharek\source\repos\ProstaMetodaParsująca\ProstaMetodaParsująca\obj\Debug\net6.0\ProstaMetodaParsująca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktro Kucharek\source\repos\ProstaMetodaParsująca\ProstaMetodaParsująca\obj\Debug\net6.0\ProstaMetodaParsująca.AssemblyInfoInputs.cache
+C:\Users\Wiktro Kucharek\source\repos\ProstaMetodaParsująca\ProstaMetodaParsująca\obj\Debug\net6.0\ProstaMetodaParsująca.AssemblyInfo.cs
+C:\Users\Wiktro Kucharek\source\repos\ProstaMetodaParsująca\ProstaMetodaParsująca\obj\Debug\net6.0\ProstaMetodaParsująca.csproj.CoreCompileInputs.cache
+C:\Users\Wiktro Kucharek\source\repos\ProstaMetodaParsująca\ProstaMetodaParsująca\obj\Debug\net6.0\ProstaMetodaParsująca.dll
+C:\Users\Wiktro Kucharek\source\repos\ProstaMetodaParsująca\ProstaMetodaParsująca\obj\Debug\net6.0\refint\ProstaMetodaParsująca.dll
+C:\Users\Wiktro Kucharek\source\repos\ProstaMetodaParsująca\ProstaMetodaParsująca\obj\Debug\net6.0\ProstaMetodaParsująca.pdb
+C:\Users\Wiktro Kucharek\source\repos\ProstaMetodaParsująca\ProstaMetodaParsująca\obj\Debug\net6.0\ProstaMetodaParsująca.genruntimeconfig.cache
+C:\Users\Wiktro Kucharek\source\repos\ProstaMetodaParsująca\ProstaMetodaParsująca\obj\Debug\net6.0\ref\ProstaMetodaParsująca.dll
